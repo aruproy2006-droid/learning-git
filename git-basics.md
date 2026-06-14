@@ -15,21 +15,36 @@ GitHub is a cloud-based platform where developers store and manage Git repositor
 ## Common Git Commands
 
 ### Initialize a Repository
-
 ```bash
 git init
 ```
 
 ### Clone a Repository
-
 ```bash
 git clone <repository-url>
 ```
 
-
 ### Check Status
-
 ```bash
 git status
 ```
 
+### Add Files
+```bash
+git add .
+```
+
+### Commit Changes
+```bash
+git commit -m "Initial commit"
+```
+
+### Push Changes
+```bash
+git push
+```
+
+### Pull Changes
+```bash
+git pull
+```
