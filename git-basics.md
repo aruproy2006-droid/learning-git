@@ -18,3 +18,18 @@ GitHub is a cloud-based platform where developers store and manage Git repositor
 
 ```bash
 git init
+```
+
+### Clone a Repository
+
+```bash
+git clone <repository-url>
+```
+
+
+### Check Status
+
+```bash
+git status
+```
+
